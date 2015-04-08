@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "config.h"
+#include "logging/config.h"
 
 int main() {
 

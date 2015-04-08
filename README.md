@@ -19,5 +19,5 @@ By editing config.h you can configure:
 
 # Test/Demo program
 There is a test program **test.c** provided.
-You can compile it like this: gcc test.c log.c -o test
+You can compile it like this: **gcc test.c logging/log.c -o test**
 
